@@ -28,7 +28,7 @@ public class PersonDTO {
     this.salary = salary;
   }
 
-//  public PersonDTO() {}
+  public PersonDTO() {}
 
   public String getFirstName() {
     return firstName;
